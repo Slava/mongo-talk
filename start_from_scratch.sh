@@ -21,3 +21,6 @@ db.restaurants.ensureIndex({ locations: "2d" })
 
 EOF
 
+npm install mongodb > /dev/null 2>&1
+
+
